@@ -1,11 +1,14 @@
 _repo: The-Lucky-Man_4906
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: L'homme à bonne fortune. English
 contributor:
   translator:
     agent_name: Morlock, Frank J.
     gutenberg_agent_id: '1532'
     url: http://www.gutenberg.org/2009/agents/1532
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baron, Monsieur (Michel)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '1585'
     url: http://www.gutenberg.org/2009/agents/1585
 description: Translation of L'homme à bonne fortune.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4906#The-Lucky-Man
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
